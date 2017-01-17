@@ -8,6 +8,12 @@
         "vscode": "^1.5.0"
     },
     "license": "SEE LICENSE IN LICENSE",
+    "keywords": ["agila", "theme"],
+    "homepage": "https://github.com/whtsky/Agila-Theme-VSCode/blob/master/README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/whtsky/Agila-Theme-VSCode.git"
+    },
     "categories": [
         "Themes"
     ],
