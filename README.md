@@ -13,25 +13,25 @@ Screenshots below are based on
 ```
 
 #### Agila Classic Oceanic Next
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Classic Oceanic Next.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Classic%20Oceanic%20Next.png)
 
 #### Agila Dracula
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Dracula.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Dracula.png)
 
 #### Agila Monokai Extended
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Monokai Extended.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Monokai%20Extended.png)
 
 #### Agila Cobalt
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Cobalt.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Cobalt.png)
 
 #### Agila Oceanic Next
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Oceanic Next.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Oceanic%20Next.png)
 
 #### Agila Light Solarized
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Light Solarized.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Light%20Solarized.png)
 
 #### Agila Neon Monocyanide
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Neon Monocyanide.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Neon%20Monocyanide.png)
 
 #### Agila Origin Oceanic Next
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila Origin Oceanic Next.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Origin%20Oceanic Next.png)
