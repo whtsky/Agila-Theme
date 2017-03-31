@@ -34,4 +34,4 @@ Screenshots below are based on
 ![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Neon%20Monocyanide.png)
 
 #### Agila Origin Oceanic Next
-![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Origin%20Oceanic Next.png)
+![Screenshot](https://github.com/whtsky/Agila-Theme-VSCode/raw/master/screenshots/Agila%20Origin%20Oceanic%20Next.png)
