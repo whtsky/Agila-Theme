@@ -3,7 +3,7 @@
     "displayName": "Agila Theme",
     "description": "Agila Theme",
     "icon": "icon.png",
-    "version": "2.0.1",
+    "version": "2.0.2",
     "publisher": "whtsky",
     "engines": {
         "vscode": "^1.5.0"
